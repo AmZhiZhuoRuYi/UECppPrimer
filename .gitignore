@@ -1,0 +1,15 @@
+#ignore this folder
+
+/Binaries/
+
+UECPP.sln
+
+/Saved/Autosaves/
+/Saved/Backup/
+/Saved/Collections/
+/Saved/Logs/
+/Saved/AutoScreenshot.png
+/Saved/Config/CrashReportClient/
+/Saved/Config/ConsoleHistory.ini
+
+/Intermediate/
